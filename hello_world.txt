@@ -1,1 +1,4 @@
 agregando un texto para probar como funciona esta mierda de github
+agregando una segunda linea a este archivo para ver si me acuerdo
+de los comandos de github.
+3) esta tercera va a ser borrada en el proximo commit que haga , chau
